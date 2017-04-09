@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="7.8.0" last-modified="1490924782000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>
